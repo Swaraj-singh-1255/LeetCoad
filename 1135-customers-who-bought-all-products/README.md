@@ -34,7 +34,7 @@ product_key is the primary key (column with unique values) for this table.
 <p>The&nbsp;result format is in the following example.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class="example">Example 01:</strong></p>
 
 <pre>
 <strong>Input:</strong> 
