@@ -48,7 +48,7 @@ Customer table:
 | 3           | 6           |
 | 1           | 6           |
 +-------------+-------------+
-Product table:
+Product table:-
 +-------------+
 | product_key |
 +-------------+
